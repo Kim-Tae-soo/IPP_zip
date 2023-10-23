@@ -1,0 +1,11 @@
+package main.service;
+
+public interface MemberService {
+	/*
+	 * 회원등록 처리 (MemberSave Service) 
+	 */
+	public String insertMember(MemberVO vo) throws Exception;
+	
+	public int selectMemberIdCheck(String userid) throws Exception;
+	
+}

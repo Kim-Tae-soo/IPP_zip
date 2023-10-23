@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="RepositorySelectionPage.lastRepository" value="https://192.168.50.68/svn/egov_PJ"/>
+	<item key="DirectorySelectionPage.lastParent_https://desktop-j3tvs3u/svn/egov_test" value=""/>
+	<item key="DirectorySelectionPage.lastParent_https://192.168.50.68/svn/egov_PJ" value=""/>
+	<item key="CommitDialog.location.x" value="10"/>
+	<item key="CommitDialog.location.y" value="0"/>
+	<item key="CommitDialog.size.x" value="1900"/>
+	<item key="CommitDialog.size.y" value="1040"/>
+	<item key="CommitDialog.weights.0" value="500"/>
+	<item key="CommitDialog.weights.1" value="500"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Revision" value="101"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Date" value="251"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Author" value="200"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Comment" value="500"/>
+	<item key="BranchTag.location.x" value="673"/>
+	<item key="BranchTag.location.y" value="264"/>
+	<item key="BranchTag.size.x" value="574"/>
+	<item key="BranchTag.size.y" value="385"/>
+	<item key="UrlCombo.eGovFrame_Project.0" value="https://192.168.50.68/svn/egov_PJ/eGovFrame_Project/KTS"/>
+	<item key="BranchTagDialog.makeParents" value="true"/>
+	<item key="UrlCombo.KTS.0" value="https://192.168.50.68/svn/egov_PJ/KTS_eGovFrame_Project/KTS"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://192.168.50.68/svn/egov_PJ/KTS_eGovFrame_Project"/>
+			<item value="https://DESKTOP-J3TVS3U/svn/egov_test/"/>
+			<item value="https://192.168.50.68/svn/egov_PJ/"/>
+			<item value="https://192.168.50.68/!/#egov_PJ"/>
+		</list>
+	</section>
+	<section name="CommitWizard">
+		<item key="VWeight1" value="500"/>
+		<item key="VWeight2" value="500"/>
+		<item key="ShowCompare" value="false"/>
+	</section>
+</section>

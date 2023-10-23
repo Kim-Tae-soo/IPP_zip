@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.eclipse.team.ui.sychronizing_default_participant=org.eclipse.team.svn.ui.synchronize.update.SynchronizeModelParticipant
+org.eclipse.team.ui.sychronizing_default_participant_sec_id=1690951133195
+org.eclipse.team.ui.sychronizing_default_perspective_to_show=always
+org.eclipse.team.ui.syncview_default_perspective=org.tigris.subversion.subclipse.ui.svnPerspective

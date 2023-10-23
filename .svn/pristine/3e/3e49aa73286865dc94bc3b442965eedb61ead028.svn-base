@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="egovframework.example.sample.service.deptService"/>
+    <fullyQualifiedTypeName name="egovframework.example.sample.service.DeptVO"/>
+    <fullyQualifiedTypeName name="egovframework.example.sample.service.DeptService"/>
+    <fullyQualifiedTypeName name="org.egovframe.rte.fdl.cmmn.EgovAbstractServiceImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.egovframe.rte.psl.dataaccess.EgovAbstractDAO"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="main.service.BoardVO"/>
+    <fullyQualifiedTypeName name="main.service.BoardService"/>
+    <fullyQualifiedTypeName name="javax.annotation.Resource"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.ModelMap"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="javax.resource.cci.ResultSet"/>
+</qualifiedTypeNameHistroy>

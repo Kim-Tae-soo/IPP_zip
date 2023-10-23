@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/a03a2ecdef30001e1a12d7e23e8c6dd5=a03a2ecdef30001e1a12d7e23e8c6dd5;https\://192.168.50.68/svn/egov_PJ/KTS_eGovFrame_Project/KTS;https\://192.168.50.68/svn/egov_PJ/KTS_eGovFrame_Project/KTS;branches;tags;trunk;true;14fab253-7295-204b-83af-707081a6da81;https\://192.168.50.68/svn/egov_PJ;;false;;;0
+synch_info/contigous=true

@@ -1,0 +1,176 @@
+
+7월 18, 2023 09:10:50.588 NEW SESSION
+7월 18, 2023 09:10:50.588 [11860:13000:0718/091050.587:ERROR:device_event_log_impl.cc(222)] [09:10:50.587] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+7월 18, 2023 09:29:21.608 [11492:3944:0718/092921.608:ERROR:device_event_log_impl.cc(222)] [09:29:21.608] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+7월 18, 2023 09:29:44.583 [11492:3944:0718/092944.583:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+7월 18, 2023 09:29:44.583 [11492:3944:0718/092944.583:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+7월 18, 2023 09:29:44.584 [11492:3944:0718/092944.583:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+7월 18, 2023 10:59:54.191 NEW SESSION
+7월 18, 2023 10:59:54.192 [7376:12496:0718/105954.189:ERROR:device_event_log_impl.cc(222)] [10:59:54.190] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+
+7월 18, 2023 11:04:01.528 NEW SESSION
+7월 18, 2023 11:04:01.528 [12880:3896:0718/110401.527:ERROR:device_event_log_impl.cc(222)] [11:04:01.525] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+7월 18, 2023 11:10:20.23 [6800:6344:0718/111020.023:ERROR:device_event_log_impl.cc(222)] [11:10:20.023] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+7월 18, 2023 11:11:14.516 [13640:12020:0718/111114.516:ERROR:device_event_log_impl.cc(222)] [11:11:14.513] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+
+7월 28, 2023 09:18:43.272 NEW SESSION
+7월 28, 2023 09:18:43.272 [11572:11144:0728/091843.271:ERROR:device_event_log_impl.cc(222)] [09:18:43.271] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+7월 28, 2023 09:18:43.324 [11572:11144:0728/091843.323:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 28, 2023 09:34:05.239 [11572:11200:0728/093405.239:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for adservice.google.com failed:
+7월 28, 2023 09:34:05.240 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 28, 2023 09:34:05.240 ERROR: No matching issuer found
+7월 28, 2023 09:34:05.240 
+7월 28, 2023 09:34:05.240 
+7월 28, 2023 09:34:05.839 [11572:11200:0728/093405.839:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for pagead2.googlesyndication.com failed:
+7월 28, 2023 09:34:05.839 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 28, 2023 09:34:05.839 ERROR: No matching issuer found
+7월 28, 2023 09:34:05.839 
+7월 28, 2023 09:34:05.840 
+7월 28, 2023 09:34:06.396 [11572:11200:0728/093406.395:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for webid.ad.daum.net failed:
+7월 28, 2023 09:34:06.396 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 28, 2023 09:34:06.397 ERROR: No matching issuer found
+7월 28, 2023 09:34:06.397 
+7월 28, 2023 09:34:06.397 
+7월 28, 2023 09:34:20.648 [11572:11200:0728/093420.648:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.googleadservices.com failed:
+7월 28, 2023 09:34:20.649 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 28, 2023 09:34:20.649 ERROR: No matching issuer found
+7월 28, 2023 09:34:20.650 
+7월 28, 2023 09:34:20.650 
+7월 28, 2023 09:34:20.959 [11572:11200:0728/093420.959:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.googletagmanager.com failed:
+7월 28, 2023 09:34:20.960 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 28, 2023 09:34:20.960 ERROR: No matching issuer found
+7월 28, 2023 09:34:20.960 
+7월 28, 2023 09:34:20.960 
+7월 28, 2023 09:34:21.208 [11572:11200:0728/093421.208:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for display.ad.daum.net failed:
+7월 28, 2023 09:34:21.208 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 28, 2023 09:34:21.208 ERROR: No matching issuer found
+7월 28, 2023 09:34:21.208 
+7월 28, 2023 09:34:21.208 
+
+7월 31, 2023 11:30:35.31 NEW SESSION
+7월 31, 2023 11:30:35.31 [8892:13524:0731/113035.021:ERROR:device_event_log_impl.cc(222)] [11:30:35.021] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+7월 31, 2023 11:30:35.343 [8892:13524:0731/113035.342:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 31, 2023 13:15:28.508 [8892:10084:0731/131528.508:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for adservice.google.com failed:
+7월 31, 2023 13:15:28.509 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:15:28.509 ERROR: No matching issuer found
+7월 31, 2023 13:15:28.509 
+7월 31, 2023 13:15:28.509 
+7월 31, 2023 13:15:31.602 [8892:10084:0731/131531.601:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.googleadservices.com failed:
+7월 31, 2023 13:15:31.602 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:15:31.603 ERROR: No matching issuer found
+7월 31, 2023 13:15:31.603 
+7월 31, 2023 13:15:31.603 
+7월 31, 2023 13:15:33.249 [8892:10084:0731/131533.249:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for googleads.g.doubleclick.net failed:
+7월 31, 2023 13:15:33.249 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:15:33.249 ERROR: No matching issuer found
+7월 31, 2023 13:15:33.249 
+7월 31, 2023 13:15:33.249 
+7월 31, 2023 13:15:33.256 [8892:10084:0731/131533.256:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for static.doubleclick.net failed:
+7월 31, 2023 13:15:33.256 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:15:33.256 ERROR: No matching issuer found
+7월 31, 2023 13:15:33.256 
+7월 31, 2023 13:15:33.256 
+7월 31, 2023 13:23:10.886 [8892:10084:0731/132310.886:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for pagead2.googlesyndication.com failed:
+7월 31, 2023 13:23:10.887 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:23:10.887 ERROR: No matching issuer found
+7월 31, 2023 13:23:10.887 
+7월 31, 2023 13:23:10.887 
+7월 31, 2023 13:23:11.429 [8892:10084:0731/132311.428:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for webid.ad.daum.net failed:
+7월 31, 2023 13:23:11.430 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:23:11.430 ERROR: No matching issuer found
+7월 31, 2023 13:23:11.430 
+7월 31, 2023 13:23:11.431 
+7월 31, 2023 13:33:51.737 [8892:13524:0731/133351.737:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+7월 31, 2023 13:34:48.39 [8892:13524:0731/133448.039:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+7월 31, 2023 13:56:45.301 [8892:10084:0731/135645.301:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for adservice.google.com failed:
+7월 31, 2023 13:56:45.301 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:56:45.301 ERROR: No matching issuer found
+7월 31, 2023 13:56:45.301 
+7월 31, 2023 13:56:45.301 
+7월 31, 2023 13:56:47.507 [8892:10084:0731/135647.506:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for webid.ad.daum.net failed:
+7월 31, 2023 13:56:47.507 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:56:47.508 ERROR: No matching issuer found
+7월 31, 2023 13:56:47.508 
+7월 31, 2023 13:56:47.508 
+7월 31, 2023 13:58:07.164 [8892:10084:0731/135807.164:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.googleadservices.com failed:
+7월 31, 2023 13:58:07.166 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:58:07.166 ERROR: No matching issuer found
+7월 31, 2023 13:58:07.166 
+7월 31, 2023 13:58:07.166 
+7월 31, 2023 13:58:07.791 [8892:10084:0731/135807.791:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for pagead2.googlesyndication.com failed:
+7월 31, 2023 13:58:07.791 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:58:07.791 ERROR: No matching issuer found
+7월 31, 2023 13:58:07.791 
+7월 31, 2023 13:58:07.791 
+7월 31, 2023 13:58:07.798 [8892:10084:0731/135807.798:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.googletagmanager.com failed:
+7월 31, 2023 13:58:07.798 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 13:58:07.798 ERROR: No matching issuer found
+7월 31, 2023 13:58:07.799 
+7월 31, 2023 13:58:07.799 
+7월 31, 2023 14:03:28.935 [8892:10084:0731/140328.935:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for ssl.google-analytics.com failed:
+7월 31, 2023 14:03:28.935 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 14:03:28.935 ERROR: No matching issuer found
+7월 31, 2023 14:03:28.935 
+7월 31, 2023 14:03:28.936 
+7월 31, 2023 14:57:46.716 [8892:10084:0731/145746.715:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for adservice.google.com failed:
+7월 31, 2023 14:57:46.717 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 14:57:46.718 ERROR: No matching issuer found
+7월 31, 2023 14:57:46.718 
+7월 31, 2023 14:57:46.718 
+7월 31, 2023 14:57:49.107 [8892:10084:0731/145749.106:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.googleadservices.com failed:
+7월 31, 2023 14:57:49.107 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 14:57:49.108 ERROR: No matching issuer found
+7월 31, 2023 14:57:49.108 
+7월 31, 2023 14:57:49.108 
+7월 31, 2023 14:57:50.485 [8892:10084:0731/145750.485:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for webid.ad.daum.net failed:
+7월 31, 2023 14:57:50.486 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 14:57:50.486 ERROR: No matching issuer found
+7월 31, 2023 14:57:50.487 
+7월 31, 2023 14:57:50.487 
+7월 31, 2023 14:59:30.501 [8892:10084:0731/145930.501:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.googletagmanager.com failed:
+7월 31, 2023 14:59:30.502 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 14:59:30.502 ERROR: No matching issuer found
+7월 31, 2023 14:59:30.502 
+7월 31, 2023 14:59:30.502 
+7월 31, 2023 14:59:30.682 [8892:10084:0731/145930.682:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for pagead2.googlesyndication.com failed:
+7월 31, 2023 14:59:30.683 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 14:59:30.683 ERROR: No matching issuer found
+7월 31, 2023 14:59:30.684 
+7월 31, 2023 14:59:30.684 
+7월 31, 2023 15:16:55.717 [8892:10084:0731/151655.717:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.google-analytics.com failed:
+7월 31, 2023 15:16:55.717 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 15:16:55.717 ERROR: No matching issuer found
+7월 31, 2023 15:16:55.717 
+7월 31, 2023 15:16:55.717 
+7월 31, 2023 15:19:20.856 [8892:13524:0731/151920.856:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+7월 31, 2023 15:25:32.171 [8892:10084:0731/152532.171:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for bc.ad.daum.net failed:
+7월 31, 2023 15:25:32.171 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 15:25:32.171 ERROR: No matching issuer found
+7월 31, 2023 15:25:32.171 
+7월 31, 2023 15:25:32.171 
+7월 31, 2023 15:27:17.765 [8892:10084:0731/152717.765:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for googleads.g.doubleclick.net failed:
+7월 31, 2023 15:27:17.765 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 15:27:17.766 ERROR: No matching issuer found
+7월 31, 2023 15:27:17.766 
+7월 31, 2023 15:27:17.766 
+7월 31, 2023 15:27:17.772 [8892:10084:0731/152717.772:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for static.doubleclick.net failed:
+7월 31, 2023 15:27:17.772 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 15:27:17.773 ERROR: No matching issuer found
+7월 31, 2023 15:27:17.773 
+7월 31, 2023 15:27:17.773 
+7월 31, 2023 16:05:56.790 [8892:10084:0731/160556.790:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for googleads.g.doubleclick.net failed:
+7월 31, 2023 16:05:56.792 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 16:05:56.792 ERROR: No matching issuer found
+7월 31, 2023 16:05:56.792 
+7월 31, 2023 16:05:56.792 
+7월 31, 2023 16:05:56.796 [8892:10084:0731/160556.796:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for static.doubleclick.net failed:
+7월 31, 2023 16:05:56.796 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 16:05:56.796 ERROR: No matching issuer found
+7월 31, 2023 16:05:56.796 
+7월 31, 2023 16:05:56.797 
+7월 31, 2023 16:05:56.846 [8892:10084:0731/160556.846:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for adservice.google.com failed:
+7월 31, 2023 16:05:56.846 ----- Certificate i=0 (CN=daejeon-pfBNG-DNSBL-63859ecc3c4e4,O=pfBlockerNG DNSBL Self-Signed Certificate) -----
+7월 31, 2023 16:05:56.846 ERROR: No matching issuer found
+7월 31, 2023 16:05:56.846 
+7월 31, 2023 16:05:56.846 
