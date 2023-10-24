@@ -103,12 +103,12 @@
 						</span>
 					</li>
 					<li>
-						<span class="btn_blue_l"> <a href="<c:url value='/KTS_login.do'/>"><spring:message code="button.Login" /></a> 
+						<span class="btn_blue_l"> <a href="<c:url value='/loginWrite.do'/>"><spring:message code="button.Login" /></a> 
 						<img src="<c:url value='/images/KTS_egovframework/KTS_example/btn_bg_r.gif'/>" style="margin-left: 6px;" alt="" />
 						</span>
 					</li>
 					<li>
-						<span class="btn_blue_l"> <a href="<c:url value='/KTS_admin-login.do'/>"><spring:message code="button.Manager_Login" /></a> 
+						<span class="btn_blue_l"> <a href="<c:url value='/boardList.do'/>"><spring:message code="button.board" /></a> 
 						<img src="<c:url value='/images/KTS_egovframework/KTS_example/btn_bg_r.gif'/>" style="margin-left: 6px;" alt="" />
 						</span>
 					</li>

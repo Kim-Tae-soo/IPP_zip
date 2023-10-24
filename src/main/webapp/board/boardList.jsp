@@ -48,6 +48,7 @@ th,td{
 </style>
 
 <body>
+<%@include file="../include/topmenu.jsp" %>
 <!-- 번호 , 제목 , 글쓴이 , 등록일 , 조회수 -->
 <table>
 		<div class="div1">Board List</div>

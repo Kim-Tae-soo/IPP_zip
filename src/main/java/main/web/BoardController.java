@@ -40,7 +40,7 @@ public class BoardController {
 	@RequestMapping("/boardList.do")
 	public String selectNBoardList(BoardVO vo, ModelMap model) throws Exception {
 		
-		int unit = 5;
+		int unit = 10;
 		
 		//총 게시글 수
 		int total = boardService.selectNboardTotal(vo);

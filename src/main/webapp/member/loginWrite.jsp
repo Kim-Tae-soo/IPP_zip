@@ -12,7 +12,7 @@
 <script>
 $(function(){
 	
-	$.("#btn_submit").click(function(){
+	$("#btn_submit").click(function(){
 		
 		var userid= $.trim($("#userid").val());
 		var pass= $.trim($("#pass").val());
@@ -41,7 +41,7 @@ $(function(){
 					alert(userid+="user, LOGIN SUCCESS");
 					location="boardList.do";
 				} else {
-					alert("LGOIN FAIL")
+					alert("LOGIN FAIL")
 				}
 			},
 			error: function(){ // 오류발생
@@ -87,6 +87,7 @@ caption{
 }
 </style>
 <body>
+<%@include file="../include/topmenu.jsp" %>
 <form name="frm" id="frm">
 <table>
 	<caption>LOGIN</caption>
@@ -105,7 +106,9 @@ caption{
 </table>
 <div class="div_button">
 	<button type="button" id="btn_submit">LOGIN</button>
+	<button type="button" onclick="location='apilogin.do'">API LOGIN</button>
 	<button type="reset">RESET</button>
+	
 </div>
 </form>
 

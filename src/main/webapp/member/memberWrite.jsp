@@ -156,17 +156,7 @@ caption{
 }
 </style>
 <body>
-<table>
-	<tr>
-		<th width="20%"><a href="/KTS_eGovFrame_Project/">eGov Board</th>
-		<th width="20%"><a href="/KTS_eGovFrame_Project/boardList.do">BOARD</th>
-		<th width="20%"><a href="/KTS_eGovFrame_Project/codeList.do">CODE LIST</th>
-		<th width="20%"><a href="/KTS_eGovFrame_Project/memberWrite.do">JOIN</th>
-		<th width="20%"><a href="/KTS_eGovFrame_Project/loginWrite.do">LOGIN</th>
-	</tr>
-</table>
-
-
+<%@include file="../include/topmenu.jsp" %>
 <form name="frm" id="frm">
 <table>
 	<caption>JOIN</caption>

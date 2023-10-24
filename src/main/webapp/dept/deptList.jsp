@@ -12,15 +12,35 @@
 </head>
 
 <style>
-	table {
-		width:400px;
-		border-collapse:collapse; /*cell 사이의 간격 없앰*/
-	}
-	
-	th,td {
-		border:1px solid #cccccc;
-		padding : 5px;
-	}
+
+body{
+	font-size:9pt;
+}
+/* body 사용 시 전체적으로 적용이되나 버튼은 적용이 안됌 */
+button {
+	font-size:9pt;
+}
+
+table {
+	width:600px;
+	border-collapse:collapse;
+}
+
+th,td{
+	border:1px solid #cccccc;
+	padding:3px
+}
+
+.div1{
+	width:600px;
+	text-align:center;
+	font-size:15pt;
+}
+.div2{
+	width:600px;
+	text-align:left;
+	fontsize:8pt;
+}
 </style>
 
 <body>

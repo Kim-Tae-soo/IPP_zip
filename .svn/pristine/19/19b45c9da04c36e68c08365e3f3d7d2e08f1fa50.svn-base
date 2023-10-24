@@ -1,0 +1,51 @@
+#UI resource#
+list.sample= Board_KTS
+button.search=\uac80\uc0c9
+button.list=\ubaa9\ub85d
+button.modify=\uc218\uc815
+button.create=\uc791\uc131
+button.reset=\ucd08\uae30\ud654
+button.delete=\uc0ad\uc81c
+button.create=\uc791\uc131
+search.choose=Select Choose
+search.keyword=\uac80\uc0c9
+search.name=\uac8c\uc2dc\uae00\uba85
+search.id=\uace0\uc720\ubc88\ud638
+title.sample.id= \uac8c\uc2dc\uae00 \uace0\uc720\ubc88\ud638
+title.sample.name=\uc81c\ubaa9
+title.sample.useYn=\uc0ac\uc6a9\uc5ec\ubd80
+title.sample.description=\ub0b4\uc6a9
+title.smaple.uploadfile=\ucca8\ubd80\ud30c\uc77c
+title.sample.regUser=\uc791\uc131\uc790
+title.sample.filename=\ucca8\ubd80\ud30c\uc77c
+title.sample= SAMPLE
+button.Join=\ud68c\uc6d0\uac00\uc785
+button.Login=\ub85c\uadf8\uc778
+button.board=\uac8c\uc2dc\ud310
+
+# image name #
+image.search=btn_form_search_en.gif
+image.errorBg=error_en
+
+# -- validator errors -- #
+fail.common.msg=error ocurred!
+fail.common.sql=sql error ocurred! error code: {0}, error msg: {1}
+info.nodata.msg=no data found.
+errors.prefix=<div class="error"> 
+errors.suffix=</div><br/>
+errors.required={0} \uc785\ub825\uc740 \ud544\uc218\uc785\ub2c8\ub2e4.
+errors.minlength={0} can not be less than {1} characters.
+errors.maxlength={0} can not be greater than {1} characters.
+errors.invalid={0} is invalid.
+errors.byte={0} must be a byte.
+errors.short={0} must be a short.
+errors.integer={0} must be an integer.
+errors.long={0} must be a long.
+errors.float={0} must be a float.
+errors.double={0} must be a double.
+errors.date={0} is not a date.
+errors.range={0} is not in the range {1} through {2}.
+errors.creditcard={0} is an invalid credit card number.
+errors.email={0} is an invalid e-mail address.
+errors.ihidnum=An invalid Social Security Number.
+errors.korean={0} must be a Korean.

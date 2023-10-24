@@ -42,4 +42,12 @@
 			FROM POST
 				WHERE POST_TOWN LIKE '%'||#dong#||'%'
 	</select>
+	
+	<select id="memberDAO.selectMemberCount" resultClass="java.lang.Integer">
+	
+		SELECT COUNT (*) FROM member 
+						 WHERE
+						 	 userid=#userid# AND pass=#pass#
+		
+	</select>
 </sqlMap>
